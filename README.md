@@ -1,3 +1,6 @@
 The installation for git was somehow confusing for the first time. I didnt know what commands to typ. There may not be a lot of commands but the proper flow of commands needs to be given more attention. My experience were okay but I still need some time to practise but given that we already have the teaching and learning goin on, it was quite clearer and on what the commands would do if I were to terminate them. There are also guide on the github itself and it was helpful. Learning the branch is so useful, but I still am afraid I would so some mistakes and it will ruin everything. All in all, I still need to look from time to time on which commands to type and use.
 
 Phew!
+
+Jonathan:
+Understanding the commands is important to keep track of what's happening, eventually when we understood what each command did, we could still follow the flow even if we made some mistakes on the order of cammands in the instrucitons. Also, if we have to make sure that we have done 'git pull' before we make a branch, wouldn't it be better to do a script like 'git pull && git checkout -b bracnh/name-jonathan' for example? This way it is sure that we have the most recent version of main/master when we checkout a branch.
